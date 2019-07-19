@@ -12,6 +12,6 @@ server:
   port: 9001
 env:
   test123456
-gril:
+person:
   name: lisa
   age: 18
