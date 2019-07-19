@@ -13,5 +13,5 @@ server:
 env:
   test123456
 gril:
-  name:lisa
-  age:18
+  name: lisa
+  age: 18
